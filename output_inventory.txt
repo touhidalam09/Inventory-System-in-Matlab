@@ -1,0 +1,173 @@
+Enter maximum stock level: 11
+Enter review period: 5
+Cycle: 1
+Day: 1
+Begining Inventory: 3
+Rabdom Digits for Demand: 82
+Demand: 3
+Ending inventory: 0
+Shortage Quantity: 0
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 1
+
+
+Day: 2
+Begining Inventory: 0
+Rabdom Digits for Demand: 91
+Demand: 3
+Ending inventory: 0
+Shortage Quantity: 3
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 3
+Begining Inventory: 8
+Rabdom Digits for Demand: 13
+Demand: 1
+Ending inventory: 4
+Shortage Quantity: 0
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 4
+Begining Inventory: 4
+Rabdom Digits for Demand: 92
+Demand: 4
+Ending inventory: 0
+Shortage Quantity: 0
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 5
+Begining Inventory: 0
+Rabdom Digits for Demand: 64
+Demand: 2
+Ending inventory: 0
+Shortage Quantity: 2
+Order Quantity: 11
+Random Digits for Lead Time: 1
+Days untill Order Arrives: 1
+
+
+
+
+Cycle: 2
+Day: 1
+Begining Inventory: 0
+Rabdom Digits for Demand: 28
+Demand: 1
+Ending inventory: 0
+Shortage Quantity: 3
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 2
+Begining Inventory: 11
+Rabdom Digits for Demand: 55
+Demand: 2
+Ending inventory: 6
+Shortage Quantity: 0
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 3
+Begining Inventory: 6
+Rabdom Digits for Demand: 96
+Demand: 4
+Ending inventory: 2
+Shortage Quantity: 0
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 4
+Begining Inventory: 2
+Rabdom Digits for Demand: 97
+Demand: 4
+Ending inventory: 0
+Shortage Quantity: 2
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 5
+Begining Inventory: 0
+Rabdom Digits for Demand: 16
+Demand: 1
+Ending inventory: 0
+Shortage Quantity: 3
+Order Quantity: 11
+Random Digits for Lead Time: 10
+Days untill Order Arrives: 3
+
+
+
+
+Cycle: 3
+Day: 1
+Begining Inventory: 0
+Rabdom Digits for Demand: 96
+Demand: 4
+Ending inventory: 0
+Shortage Quantity: 7
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 2
+
+
+Day: 2
+Begining Inventory: 0
+Rabdom Digits for Demand: 49
+Demand: 2
+Ending inventory: 0
+Shortage Quantity: 9
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 1
+
+
+Day: 3
+Begining Inventory: 0
+Rabdom Digits for Demand: 81
+Demand: 3
+Ending inventory: 0
+Shortage Quantity: 12
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 4
+Begining Inventory: 11
+Rabdom Digits for Demand: 15
+Demand: 1
+Ending inventory: 0
+Shortage Quantity: 2
+Order Quantity: 0
+Random Digits for Lead Time: 0
+Days untill Order Arrives: 0
+
+
+Day: 5
+Begining Inventory: 0
+Rabdom Digits for Demand: 43
+Demand: 2
+Ending inventory: 0
+Shortage Quantity: 4
+Order Quantity: 11
+Random Digits for Lead Time: 10
+Days untill Order Arrives: 3
+
